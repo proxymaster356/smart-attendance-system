@@ -1,5 +1,3 @@
-# --- START OF FILE abc_recog_arduino_rfid_v2.py ---
-
 import cv2
 import numpy as np
 import os
